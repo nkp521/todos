@@ -1,6 +1,8 @@
 TITLE: To-DO List
     1. Wake Up
     2. Get Ready
-    3. Get to Clasas
+    3. Get to Class
     4. Learn
-    5. Repeat
+    5. Build Projects
+    6. Grow my Skills
+    7. Repeat
